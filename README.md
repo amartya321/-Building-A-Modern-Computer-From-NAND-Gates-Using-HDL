@@ -1,5 +1,5 @@
 # -Building-A-Modern-Computer-From-NAND-Gates-Using-HDL
-Building up a Modern 16 bit computer from basic NAND gates using  HDL in which YOU can play games like Tetries , pong 
+Building up a Modern 16 bit computer from basic NAND gates using  HDL in which YOU can play games like Tetries and Pong .
 
 Step 1:Download the zip file from Given tools and extract all the items in a single folder .
 
